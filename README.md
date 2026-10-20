@@ -2,11 +2,11 @@
 
 ### Full-Stack Web Developer | Freelancer
 
-I'm a Full-Stack Web Developer, focused on building modern, responsive websites and web applications with an emphasis on usability, practical functionality, and maintainable code.
+I'm a freelance developer working under the name **ARZEN**, focused on building modern, responsive websites and web applications with an emphasis on usability, practical functionality, and maintainable code.
 
 ### Tech Stack
 
-- **Languages:** JavaScript
+- **Language:** JavaScript
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend & Database:** Node.js, MongoDB, Mongoose
 - **Authentication:** Auth.js
@@ -16,7 +16,7 @@ I'm a Full-Stack Web Developer, focused on building modern, responsive websites 
 ### Featured Projects
 
 - **[NexBook](https://nexbook-one.vercel.app/)** — A full-stack notes application focused on productivity, authentication, and a clean writing experience.
-- **[Ember & Spice](https://ember-spice-tau.vercel.app/)** — A restaurant website portfolio project featuring responsive layouts and interactive user experiences.
+- **[Ember & Spice](https://ember-spice-tau.vercel.app/)** — A restaurant website project featuring responsive layouts and interactive user experiences.
 
 ### Connect With Me
 
