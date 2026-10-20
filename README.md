@@ -2,7 +2,7 @@
 
 ### Full-Stack Web Developer | Freelancer
 
-I'm the developer behind **ARZEN**, focused on building modern, responsive websites and web applications with an emphasis on usability, practical functionality, and maintainable code.
+I'm a Full-Stack Web Developer, focused on building modern, responsive websites and web applications with an emphasis on usability, practical functionality, and maintainable code.
 
 ### Tech Stack
 
